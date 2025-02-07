@@ -42,7 +42,7 @@ Before running the application, ensure you have the following installed on your 
 1. Clone the Repository
 
 ```
-git clone https://github.com/chandanaNukala/BluberryDB.git
+git clone https://github.com/Donandrade/login_application.git
 
 ```
 
@@ -108,9 +108,6 @@ python manage.py createsuperuser
 Follow the prompts to set up the superuser credentials.
 
 
-
-
-
 ### Frontend Setup
 
 8. Navigate to the Frontend Directory
@@ -136,4 +133,4 @@ The frontend should now be running and accessible in your browser.
 - To stop the services, use docker-compose down
 
 ### Installation guide video
-https://www.youtube.com/watch?v=euSWtnm8EfQ
+
